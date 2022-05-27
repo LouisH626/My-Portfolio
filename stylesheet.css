@@ -1,0 +1,9 @@
+#wrapper {
+    width: 1280px;
+    height: 960px;
+}
+#nav {
+    background-color: black;
+    overflow: hidden;
+    text-align: center;
+}
