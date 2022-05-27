@@ -1,5 +1,5 @@
 # ***My-Portfolio***
-## **A Site about Myself, My Education & M Aspirations** 
+## **A Site about Myself, My Education & My Aspirations** 
 #### *By Louis Hassett*
 
 ## **Technologies Used**
