@@ -14,5 +14,11 @@ a:hover {
     color: aliceblue;
 }
 #table {
-    float: right;
+    border: 1px solid;
+    text-align: left;
 }
+th, td {
+    padding: 5px;
+    border: 1px solid;
+}
+
