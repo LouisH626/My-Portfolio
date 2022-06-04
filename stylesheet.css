@@ -16,9 +16,20 @@ a:hover {
 #table {
     border: 1px solid;
     text-align: left;
+    margin-left: 550px;
+    padding: 5px;
+    margin-top: 5px;
+    
+    
 }
 th, td {
     padding: 5px;
     border: 1px solid;
+}
+#education {
+    text-align: center;
+}
+#personal {
+    text-align: center;
 }
 
