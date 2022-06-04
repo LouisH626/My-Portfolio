@@ -38,3 +38,9 @@ th, td {
         text-align: center;
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+hr {
+    width: 950px;
+    background-color: black;
+    border: 1px solid;
+    border-color: grey;
+}
