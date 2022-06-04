@@ -1,6 +1,6 @@
 #wrapper {
     width: 1280px;
-    height: 960px;
+    height: 1000px;
 }
 #nav {
     background-color: black;
@@ -30,6 +30,7 @@ th, td {
     text-align: center;
 }
 #personal {
-    text-align: center;
+    text-align:center;
+    
 }
 
