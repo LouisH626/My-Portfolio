@@ -13,6 +13,10 @@ and finally a Contact Me page to submit a form to myself with regards to any ext
 Github Page URL created and to be sent to required individual.  
 Deployment Site URL - https://louish626.github.io/My-Portfolio/ 
 
+## **Validation** 
+W3C Validation service - https://validator.w3.org/
+CSS Validation Service - https://jigsaw.w3.org/css-validator/
+
 ## **License** 
 MIT  
 copyright (c) 2022 Louis Hassett
